@@ -1,0 +1,14 @@
+# Dipendenze principali
+pymem>=1.13.0
+psutil>=5.9.0
+
+# Utility
+colorama>=0.4.6  # Per output colorato nel terminale
+python-dotenv>=1.0.0  # Per gestire variabili d'ambiente
+
+# Logging avanzato (opzionale)
+loguru>=0.7.0
+
+# Testing (opzionale)
+pytest>=7.4.0
+pytest-cov>=4.1.0
